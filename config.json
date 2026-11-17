@@ -1,0 +1,26 @@
+{
+    "selected_strategy": "Conservative",
+    "strategies": {
+        "Conservative": {
+            "jump_duration": 0.1,
+            "duck_duration": 0.2,
+            "delay_between_actions": 1.5,
+            "waiting_interval": 2,
+            "session_duration": 15
+        },
+        "Balanced": {
+            "jump_duration": 0.08,
+            "duck_duration": 0.15,
+            "delay_between_actions": 1,
+            "waiting_interval": 1.5,
+            "session_duration": 60
+        },
+        "Aggressive": {
+            "jump_duration": 0.06,
+            "duck_duration": 0.1,
+            "delay_between_actions": 0.5,
+            "waiting_interval": 1.0,
+            "session_duration": 60
+        }
+    }
+}

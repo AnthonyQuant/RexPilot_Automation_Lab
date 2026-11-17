@@ -1,0 +1,27 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Generated session records
+sessions.csv
+
+# Synthetic benchmark output
+benchmark_test.csv
+
+# Generated visualisations
+visualizations/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
